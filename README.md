@@ -1,7 +1,7 @@
 # sahapat.github.io
 ## Welcome to my Website with Github page
 
-This site is contain my web projects i practise and convert to static site.
+This site contains the web projects I practise and convert to static site.
 
 ## Link to view my projects
 <ul>
