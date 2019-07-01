@@ -1,5 +1,4 @@
-# sahapat.github.io
-## Welcome to my Website with Github page
+# Welcome to my Website with Github page
 
 This site contains the web projects I practise and convert to static site.
 
