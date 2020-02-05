@@ -1,0 +1,25 @@
+{
+  "name": "sahapat-portfolio",
+  "version": "1.0.0",
+  "description": "This site is my portfolio certains a project during the university and personal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahapat/sahapat.github.io.git"
+  },
+  "keywords": ["portfolio",
+    "personal",
+    "website",
+    "tech",
+    "coding",
+    "dev"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sahapat/sahapat.github.io/issues"
+  },
+  "homepage": "https://github.com/Sahapat/sahapat.github.io#readme"
+}
